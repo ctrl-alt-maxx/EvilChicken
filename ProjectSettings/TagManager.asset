@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ennemi
+  - Water
+  - UI
+  - Obstacle
+  - Joueur
+  - Oeuf
+  - Destructeur
+  - Douzaine
+  - Killzone
+  - Nuage
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Sol
+    uniqueID: 2974708337
+    locked: 0
+  - name: Doudades
+    uniqueID: 2167300171
+    locked: 0
+  - name: Trou
+    uniqueID: 3725776535
+    locked: 0
+  - name: Terrestre
+    uniqueID: 1334847107
+    locked: 0
+  - name: Aerien
+    uniqueID: 1223254887
+    locked: 0
+  - name: nuage
+    uniqueID: 398864275
+    locked: 0
+  - name: Fondu
+    uniqueID: 1986533685
+    locked: 0

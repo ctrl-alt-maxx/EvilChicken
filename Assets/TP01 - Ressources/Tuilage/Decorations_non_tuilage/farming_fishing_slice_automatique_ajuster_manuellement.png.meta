@@ -1,0 +1,2679 @@
+fileFormatVersion: 2
+guid: 9f1bc4bdcbafaa1498a93e28d65f45e0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 608
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0911b51a5b9aac44aaba8182c165f949
+      internalID: 1288043667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_1
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 580
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f77fd70642e2644aa931898c71a6934
+      internalID: -241938304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_2
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 614
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c9c76b30d8e4f44b48daf6d1d1baf6
+      internalID: -24719101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_3
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 610
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7dacfe556ce0ae4e9d8d0a019eee86a
+      internalID: 132589947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_4
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 631
+        width: 26
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62912e805bfe36c49a4aefb85e7931c1
+      internalID: -537220901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_5
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 633
+        width: 22
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9602ee3cde29fa54dbb204fdedec1055
+      internalID: 1205226367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_6
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 624
+        width: 27
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97e4ac04a4bfab4a935e2e5fe3c1aed
+      internalID: -1705048334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_7
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 628
+        width: 17
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f8ba4e2bc169c42bd18522475587b3
+      internalID: -1848483430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_8
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 544
+        width: 159
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bbca59ef05e2384b978cfe5412002c4
+      internalID: -117766519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 592
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b028bd5e5abf9645a9d328cb2d784da
+      internalID: 1492154436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_10
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 622
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c430ebe009cdc94bb575b5b5b4ae73c
+      internalID: 1126723874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_11
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 610
+        width: 33
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f0b202351bc7b43a5b0d23f7f7ddda
+      internalID: 1112355716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_12
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 576
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda80eb26b9681d48b89a9a173cd19ad
+      internalID: 899847647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_13
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 578
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd142525ef91ccd4785de03f83443363
+      internalID: -1562507826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_14
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 577
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0736d9eb3da8942820de6cc2f1ccb8
+      internalID: 586452866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_15
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 601
+        width: 26
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41515d97944ced4498d8a3d8f1d852cf
+      internalID: -1389120385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_16
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 602
+        width: 17
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4984a743640adc54b87a487cb4d8a00a
+      internalID: 721562326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_17
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 593
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3019c2b7b3e0c8f42b0aa38c71372c8d
+      internalID: 1706313425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_18
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 588
+        width: 28
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84ef80c424e31746afa2983f646821d
+      internalID: 729300762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_19
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 586
+        width: 21
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524ce70aa023f6342822d45f7e1db06d
+      internalID: -668161298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 528
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530b4298f6f742547a38e0436f5c639c
+      internalID: 1584819867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_21
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 544
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56760fd9c150d814da49cdd798f22adf
+      internalID: 1733794221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_22
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 512
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4327c44ba6a94de4b9c082a47312c985
+      internalID: -835246146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_23
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 224
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0289432ad45fe44a5cd0fe985bf5ea
+      internalID: -144753158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_24
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 550
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f9ad673bcb19f42913a6fac5cfd794
+      internalID: -2098002768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_25
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 551
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9859fe86740cbe346b992c9b82502e38
+      internalID: 1166781732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_26
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 547
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aee3f9014ddd134590401b1fcacf80a
+      internalID: 1463308655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_27
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 548
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888fdb1f846127c439e78d7f86bb3d52
+      internalID: -1406419713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_28
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 552
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42c533b660e4424eb37dd635d78bb67
+      internalID: 251518278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_29
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 512
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ef9ebb478549c4dbc8ebdcba17afaf
+      internalID: 1044238119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_30
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 455
+        width: 70
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485ffbb3a32074e469851eb1d10d7324
+      internalID: 6304573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_31
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 520
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0a5c8b36f948b41961317bd8abdbb4
+      internalID: -1841237492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 464
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee5b220c7fb6444496439682a1a0b18
+      internalID: 240716370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_33
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 480
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c07d9abc155e1e4390f07feaad468d0
+      internalID: -1559752554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_34
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 454
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7343a0e6f1d130e469653164792abcba
+      internalID: 1512777533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_35
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 488
+        width: 36
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7187d673474586408d0da64275a64cf
+      internalID: 974631000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_36
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d93dd394223fea45a20b747f3cca814
+      internalID: 1320756786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_37
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 451
+        width: 48
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229699828a6f82d48a9ddb992f4442b7
+      internalID: -1423895128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c897b850322ef46439787b4698166d0d
+      internalID: 1488982569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_39
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 416
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd48a94eb66e81f40925d346cdabc455
+      internalID: 1453982803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_40
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 390
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afabaccbeeda4bb43a59fca6de0e8430
+      internalID: 1261170350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_41
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 424
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b39bf982743f9c4a816d874651be93b
+      internalID: 1501157266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_42
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 409
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674fcde601fc1b943846326444648a44
+      internalID: -1989405867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_43
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 424
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff6fb195b4a2434fa1992bcd84b33b2
+      internalID: -1438114538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_44
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc19a66a64ccfbb4b9bf3e4f24377ab1
+      internalID: 723724884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_45
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 352
+        width: 24
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e9bfcc38099b648b8f18b8a3070cd9
+      internalID: 624617149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_46
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 388
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4906806404e276d4d8aec4b9c0c5ad5f
+      internalID: -2033073239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_47
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 408
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98f3b7497da299469780368cda4f55a
+      internalID: 595629959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_48
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 397
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9d8b8b9e73cb24da46b09051b68386
+      internalID: 1653808761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_49
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 389
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773fb64a98e84714eb11a677ef029091
+      internalID: -189977686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_50
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 385
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec056ed1373fde94c9bcbf186a920b22
+      internalID: -579133025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_51
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 392
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b9a2b2c39fc4f4f96a14d56b27ff8c
+      internalID: -1129801560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_52
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 354
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871f944a029377c4fba3d1cecce30904
+      internalID: 1570743159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 310
+        width: 64
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9fc7e9e91937b740b783ed3e1a722a4
+      internalID: -1197039635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_54
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 357
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6af42c8fbf8744cb19649c8d2ace67
+      internalID: 39965101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_55
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 357
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f4658462ad7ec44ac44374292044c9
+      internalID: -297718764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_56
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 356
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87714c66cca79f7488a085002b8e4b7f
+      internalID: -793183634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_57
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 356
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70bf5e69888d454dba4b178007772ba
+      internalID: -1042417318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_58
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 357
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb6e938be50ac941992058e5e48caaf
+      internalID: 1571083435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_59
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 353
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6400e759610eec5409a0d379bd7f6c70
+      internalID: 60920019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_60
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 360
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f718f158cd65041b4a77723e148fc1
+      internalID: -295150485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_61
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 352
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b32062105ab1134cadd2f2eb93e7586
+      internalID: -2024627523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_62
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 366
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da69357a44c4d8429d0c7d3bf30981e
+      internalID: 902029123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_63
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 338
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa62f379b17aa964b9ff2e7e8648275e
+      internalID: -929560050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_64
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 332
+        width: 44
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8d468d9713afd4884f73be23dcfed4
+      internalID: 1827543124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_65
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 344
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12c519dc12c0714aade1b5c84d1ba3f
+      internalID: 982799559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_66
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 354
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8833dea62319a8c43afae24ce74cdfbd
+      internalID: -1812179197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_67
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 323
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c45b85f13816a4ab028ad8e25a9e3b
+      internalID: 817376882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_68
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 323
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84130de90f310be4c849674bd021f1aa
+      internalID: 446697321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_69
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 324
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1be28c68af665641a7bda0e77a0d138
+      internalID: -1569704527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_70
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 323
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01091de81eebff54db675a19873de728
+      internalID: -1735432904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_71
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 322
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89decf1aad54ecb40940b65ae2d80107
+      internalID: -785876660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_72
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 322
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39166c70add3204ca1e65080a228515
+      internalID: 960898672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_73
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 321
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a984c59483b37a4a9ddc16ccf9e77ad
+      internalID: 1301042919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_74
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 328
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269f26f6ba1c15e47b8c698401d07f78
+      internalID: -1575400910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_75
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 341
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0397b980b137974486eaeb8cd69f482
+      internalID: -585234799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_76
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 325
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08876e8d0591bb4898dd2e7ed476661
+      internalID: 1752150084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_77
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 322
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3ba6b7ff4046a469cb7c9ddaca3d50
+      internalID: -731740458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_78
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 325
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927fd721c879d244d9810bb26f2255fb
+      internalID: -426442354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_79
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 290
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1d90f95ada18e42959c5b49b11976b
+      internalID: 1992430686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_80
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 278
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f1a94a118fb2845a507cd4338e1e18
+      internalID: 1625588605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_81
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 278
+        width: 255
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7cddc615c89bf4499556c7e42b73d75
+      internalID: 1694550367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_82
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 294
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba03ebce3bcb05d4692414442369a097
+      internalID: -2091140352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_83
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 285
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d90ed5bffc8f544970bac16d00d1db
+      internalID: 1000851263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_84
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 274
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0940e5cdad06304b997f08e3dfd04fc
+      internalID: 1438895998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_85
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 264
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca705b56de2219d458ac61e2c705adea
+      internalID: -1277714620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_86
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 262
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f5069b7f7630c4e83dd8e018402a8d
+      internalID: 1016564156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_87
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 264
+        width: 56
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb9a8536f0b3d64bb1a9e55aeaafeda
+      internalID: 1742589075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_88
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 258
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df31fa7c9c3372843a70967ad7ffda88
+      internalID: 1150647210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_89
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 228
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07c4d91418caa54bad027f5e2a40605
+      internalID: -1441326172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_90
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 209
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ee2354a271bf04192eb3433e1361bd
+      internalID: -1090293736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_91
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 215
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a72bbfb47380044be97c7b4555e032
+      internalID: -300275417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_92
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 231
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4735cfcdbd40c4cb47e178e84559dc
+      internalID: 1586764057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_93
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 202
+        width: 55
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbca3258f578bf942aab2c0dcc91bd42
+      internalID: -512773667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_94
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 212
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4e13c9a741c164ca1abf05b84cb01d
+      internalID: -546153091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_95
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 196
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdaf22b4fb65216488b26a3646941a31
+      internalID: 286130176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_96
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 199
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8fe601f4c740a143b4621932abb6f6f
+      internalID: 2021459387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_97
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 162
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493ad11e21a5a9243bf2be40ef3b6608
+      internalID: 1856555319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_98
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 150
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4394bce6d160d4e9ffc2d4bf472e04
+      internalID: 862228731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_99
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 129
+        width: 123
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f45dd4ed5a4114eb78e939c9fa8492
+      internalID: -2098119449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_100
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 127
+        width: 123
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e211ded1a928c747b23311a373933ae
+      internalID: 196664018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_101
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 167
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e37c9e1284cd44eb3ab1f3f532766c
+      internalID: -417888561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_102
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 136
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a56f653749a06741a73912d3b8c35ee
+      internalID: 124963041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_103
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 146
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f605f678ce3fbef42a41f98c4a50443d
+      internalID: 2085063689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_104
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 130
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed6521944edbb84384650a864664743
+      internalID: -1207978157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_105
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 135
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2260c5f54dd48a34581bc7ff95f8ad41
+      internalID: -2090662354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_106
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 135
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de23e66016a5964882e0c76f4d02080
+      internalID: 67743741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_107
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 84
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f710cc7d691122478d170ec740493ee
+      internalID: -249688201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_108
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 100
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5e02aabac361949a35aae261e4814b
+      internalID: 834147136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_109
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 80
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d206853ae1df6864b8a9ac62d5b82694
+      internalID: -124869315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_110
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 67
+        width: 127
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d093f16b6a67181409c4961742482dac
+      internalID: 978090131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_111
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 65
+        width: 127
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d08bb390d978a419bc59df1b5ff702
+      internalID: -1395830814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_112
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 98
+        width: 48
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f79c1a21b33fd429ca8ca5ad746d99
+      internalID: -783721185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_113
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 71
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a72da0533fef2347b3ef671f818e622
+      internalID: -941991897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_114
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 68
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d723d5b32e93f434fa14db0267808943
+      internalID: 287858406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_slice_automatique_ajuster_manuellement_115
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 66
+        width: 48
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1e8689faff8504790ba59809ce53c1
+      internalID: 339618668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      farming_fishing_slice_automatique_ajuster_manuellement_0: 1288043667
+      farming_fishing_slice_automatique_ajuster_manuellement_1: -241938304
+      farming_fishing_slice_automatique_ajuster_manuellement_10: 1126723874
+      farming_fishing_slice_automatique_ajuster_manuellement_100: 196664018
+      farming_fishing_slice_automatique_ajuster_manuellement_101: -417888561
+      farming_fishing_slice_automatique_ajuster_manuellement_102: 124963041
+      farming_fishing_slice_automatique_ajuster_manuellement_103: 2085063689
+      farming_fishing_slice_automatique_ajuster_manuellement_104: -1207978157
+      farming_fishing_slice_automatique_ajuster_manuellement_105: -2090662354
+      farming_fishing_slice_automatique_ajuster_manuellement_106: 67743741
+      farming_fishing_slice_automatique_ajuster_manuellement_107: -249688201
+      farming_fishing_slice_automatique_ajuster_manuellement_108: 834147136
+      farming_fishing_slice_automatique_ajuster_manuellement_109: -124869315
+      farming_fishing_slice_automatique_ajuster_manuellement_11: 1112355716
+      farming_fishing_slice_automatique_ajuster_manuellement_110: 978090131
+      farming_fishing_slice_automatique_ajuster_manuellement_111: -1395830814
+      farming_fishing_slice_automatique_ajuster_manuellement_112: -783721185
+      farming_fishing_slice_automatique_ajuster_manuellement_113: -941991897
+      farming_fishing_slice_automatique_ajuster_manuellement_114: 287858406
+      farming_fishing_slice_automatique_ajuster_manuellement_115: 339618668
+      farming_fishing_slice_automatique_ajuster_manuellement_12: 899847647
+      farming_fishing_slice_automatique_ajuster_manuellement_13: -1562507826
+      farming_fishing_slice_automatique_ajuster_manuellement_14: 586452866
+      farming_fishing_slice_automatique_ajuster_manuellement_15: -1389120385
+      farming_fishing_slice_automatique_ajuster_manuellement_16: 721562326
+      farming_fishing_slice_automatique_ajuster_manuellement_17: 1706313425
+      farming_fishing_slice_automatique_ajuster_manuellement_18: 729300762
+      farming_fishing_slice_automatique_ajuster_manuellement_19: -668161298
+      farming_fishing_slice_automatique_ajuster_manuellement_2: -24719101
+      farming_fishing_slice_automatique_ajuster_manuellement_20: 1584819867
+      farming_fishing_slice_automatique_ajuster_manuellement_21: 1733794221
+      farming_fishing_slice_automatique_ajuster_manuellement_22: -835246146
+      farming_fishing_slice_automatique_ajuster_manuellement_23: -144753158
+      farming_fishing_slice_automatique_ajuster_manuellement_24: -2098002768
+      farming_fishing_slice_automatique_ajuster_manuellement_25: 1166781732
+      farming_fishing_slice_automatique_ajuster_manuellement_26: 1463308655
+      farming_fishing_slice_automatique_ajuster_manuellement_27: -1406419713
+      farming_fishing_slice_automatique_ajuster_manuellement_28: 251518278
+      farming_fishing_slice_automatique_ajuster_manuellement_29: 1044238119
+      farming_fishing_slice_automatique_ajuster_manuellement_3: 132589947
+      farming_fishing_slice_automatique_ajuster_manuellement_30: 6304573
+      farming_fishing_slice_automatique_ajuster_manuellement_31: -1841237492
+      farming_fishing_slice_automatique_ajuster_manuellement_32: 240716370
+      farming_fishing_slice_automatique_ajuster_manuellement_33: -1559752554
+      farming_fishing_slice_automatique_ajuster_manuellement_34: 1512777533
+      farming_fishing_slice_automatique_ajuster_manuellement_35: 974631000
+      farming_fishing_slice_automatique_ajuster_manuellement_36: 1320756786
+      farming_fishing_slice_automatique_ajuster_manuellement_37: -1423895128
+      farming_fishing_slice_automatique_ajuster_manuellement_38: 1488982569
+      farming_fishing_slice_automatique_ajuster_manuellement_39: 1453982803
+      farming_fishing_slice_automatique_ajuster_manuellement_4: -537220901
+      farming_fishing_slice_automatique_ajuster_manuellement_40: 1261170350
+      farming_fishing_slice_automatique_ajuster_manuellement_41: 1501157266
+      farming_fishing_slice_automatique_ajuster_manuellement_42: -1989405867
+      farming_fishing_slice_automatique_ajuster_manuellement_43: -1438114538
+      farming_fishing_slice_automatique_ajuster_manuellement_44: 723724884
+      farming_fishing_slice_automatique_ajuster_manuellement_45: 624617149
+      farming_fishing_slice_automatique_ajuster_manuellement_46: -2033073239
+      farming_fishing_slice_automatique_ajuster_manuellement_47: 595629959
+      farming_fishing_slice_automatique_ajuster_manuellement_48: 1653808761
+      farming_fishing_slice_automatique_ajuster_manuellement_49: -189977686
+      farming_fishing_slice_automatique_ajuster_manuellement_5: 1205226367
+      farming_fishing_slice_automatique_ajuster_manuellement_50: -579133025
+      farming_fishing_slice_automatique_ajuster_manuellement_51: -1129801560
+      farming_fishing_slice_automatique_ajuster_manuellement_52: 1570743159
+      farming_fishing_slice_automatique_ajuster_manuellement_53: -1197039635
+      farming_fishing_slice_automatique_ajuster_manuellement_54: 39965101
+      farming_fishing_slice_automatique_ajuster_manuellement_55: -297718764
+      farming_fishing_slice_automatique_ajuster_manuellement_56: -793183634
+      farming_fishing_slice_automatique_ajuster_manuellement_57: -1042417318
+      farming_fishing_slice_automatique_ajuster_manuellement_58: 1571083435
+      farming_fishing_slice_automatique_ajuster_manuellement_59: 60920019
+      farming_fishing_slice_automatique_ajuster_manuellement_6: -1705048334
+      farming_fishing_slice_automatique_ajuster_manuellement_60: -295150485
+      farming_fishing_slice_automatique_ajuster_manuellement_61: -2024627523
+      farming_fishing_slice_automatique_ajuster_manuellement_62: 902029123
+      farming_fishing_slice_automatique_ajuster_manuellement_63: -929560050
+      farming_fishing_slice_automatique_ajuster_manuellement_64: 1827543124
+      farming_fishing_slice_automatique_ajuster_manuellement_65: 982799559
+      farming_fishing_slice_automatique_ajuster_manuellement_66: -1812179197
+      farming_fishing_slice_automatique_ajuster_manuellement_67: 817376882
+      farming_fishing_slice_automatique_ajuster_manuellement_68: 446697321
+      farming_fishing_slice_automatique_ajuster_manuellement_69: -1569704527
+      farming_fishing_slice_automatique_ajuster_manuellement_7: -1848483430
+      farming_fishing_slice_automatique_ajuster_manuellement_70: -1735432904
+      farming_fishing_slice_automatique_ajuster_manuellement_71: -785876660
+      farming_fishing_slice_automatique_ajuster_manuellement_72: 960898672
+      farming_fishing_slice_automatique_ajuster_manuellement_73: 1301042919
+      farming_fishing_slice_automatique_ajuster_manuellement_74: -1575400910
+      farming_fishing_slice_automatique_ajuster_manuellement_75: -585234799
+      farming_fishing_slice_automatique_ajuster_manuellement_76: 1752150084
+      farming_fishing_slice_automatique_ajuster_manuellement_77: -731740458
+      farming_fishing_slice_automatique_ajuster_manuellement_78: -426442354
+      farming_fishing_slice_automatique_ajuster_manuellement_79: 1992430686
+      farming_fishing_slice_automatique_ajuster_manuellement_8: -117766519
+      farming_fishing_slice_automatique_ajuster_manuellement_80: 1625588605
+      farming_fishing_slice_automatique_ajuster_manuellement_81: 1694550367
+      farming_fishing_slice_automatique_ajuster_manuellement_82: -2091140352
+      farming_fishing_slice_automatique_ajuster_manuellement_83: 1000851263
+      farming_fishing_slice_automatique_ajuster_manuellement_84: 1438895998
+      farming_fishing_slice_automatique_ajuster_manuellement_85: -1277714620
+      farming_fishing_slice_automatique_ajuster_manuellement_86: 1016564156
+      farming_fishing_slice_automatique_ajuster_manuellement_87: 1742589075
+      farming_fishing_slice_automatique_ajuster_manuellement_88: 1150647210
+      farming_fishing_slice_automatique_ajuster_manuellement_89: -1441326172
+      farming_fishing_slice_automatique_ajuster_manuellement_9: 1492154436
+      farming_fishing_slice_automatique_ajuster_manuellement_90: -1090293736
+      farming_fishing_slice_automatique_ajuster_manuellement_91: -300275417
+      farming_fishing_slice_automatique_ajuster_manuellement_92: 1586764057
+      farming_fishing_slice_automatique_ajuster_manuellement_93: -512773667
+      farming_fishing_slice_automatique_ajuster_manuellement_94: -546153091
+      farming_fishing_slice_automatique_ajuster_manuellement_95: 286130176
+      farming_fishing_slice_automatique_ajuster_manuellement_96: 2021459387
+      farming_fishing_slice_automatique_ajuster_manuellement_97: 1856555319
+      farming_fishing_slice_automatique_ajuster_manuellement_98: 862228731
+      farming_fishing_slice_automatique_ajuster_manuellement_99: -2098119449
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
